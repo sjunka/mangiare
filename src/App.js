@@ -1,25 +1,47 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+
+<div className="itemWrapper message-list">
+  <div className="message -left">
+    <div class="nes-balloon from-left">
+          <p>mano llegó Mangiare!!!</p>
     </div>
+  </div>
+
+
+  <section class="message -right">
+    <div class="nes-balloon from-right">
+      <p>UY! que es Mangiare?</p>
+    </div>
+  </section>
+
+
+  <div className="message -left">
+    <div class="nes-balloon from-left">
+          <p>La mejor Pasta artesanal de la ciudad</p>
+    </div>
+  </div>
+
+  <section class="message -right">
+    <div class="nes-balloon from-right">
+      <p>Spagettis, canelones, raviolis?</p>
+    </div>
+  </section>
+
+  <div className="message -left">
+    <div class="nes-balloon from-left">
+          <p>Si y mucho más</p>
+    </div>
+  </div>
+
+</div>
+
+</div>
   );
 }
 
