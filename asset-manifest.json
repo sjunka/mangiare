@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mangiare/static/css/main.53629891.chunk.css",
+    "main.js": "/mangiare/static/js/main.e99b1c05.chunk.js",
+    "main.js.map": "/mangiare/static/js/main.e99b1c05.chunk.js.map",
+    "runtime~main.js": "/mangiare/static/js/runtime~main.0d33fb67.js",
+    "runtime~main.js.map": "/mangiare/static/js/runtime~main.0d33fb67.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/mangiare/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/mangiare/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/mangiare/index.html",
+    "precache-manifest.325ac81988d5330a83545888ab28ce18.js": "/mangiare/precache-manifest.325ac81988d5330a83545888ab28ce18.js",
+    "service-worker.js": "/mangiare/service-worker.js",
+    "static/css/main.53629891.chunk.css.map": "/mangiare/static/css/main.53629891.chunk.css.map"
+  }
+}
