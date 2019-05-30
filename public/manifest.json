@@ -12,5 +12,6 @@
   "display": "standalone",
   "theme_color": "#0068bb",
   "background_color": "#2196f3",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "description": "Pasta artesanal"
 }

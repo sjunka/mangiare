@@ -10,3 +10,6 @@
 
 .wow { visibility: hidden; }
 
+.hide {
+  display: none;
+}
