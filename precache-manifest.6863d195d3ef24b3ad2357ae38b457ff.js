@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db6b95dfe413664b5337f5ddd06e6569",
+    "revision": "8fea0e595f3da7f53c219900ba8355cf",
     "url": "/mangiare/index.html"
   },
   {
-    "revision": "fc33c978b34a2d12b43a",
-    "url": "/mangiare/static/css/main.da8b3461.chunk.css"
+    "revision": "34864f2b93fa80b34a13",
+    "url": "/mangiare/static/css/main.e4ada75c.chunk.css"
   },
   {
     "revision": "675877c7a47303a53148",
     "url": "/mangiare/static/js/2.1e08312f.chunk.js"
   },
   {
-    "revision": "fc33c978b34a2d12b43a",
-    "url": "/mangiare/static/js/main.44db7430.chunk.js"
+    "revision": "34864f2b93fa80b34a13",
+    "url": "/mangiare/static/js/main.fab2aad0.chunk.js"
   },
   {
     "revision": "54546512f09273b003e2",

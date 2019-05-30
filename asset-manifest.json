@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mangiare/static/css/main.da8b3461.chunk.css",
-    "main.js": "/mangiare/static/js/main.44db7430.chunk.js",
-    "main.js.map": "/mangiare/static/js/main.44db7430.chunk.js.map",
+    "main.css": "/mangiare/static/css/main.e4ada75c.chunk.css",
+    "main.js": "/mangiare/static/js/main.fab2aad0.chunk.js",
+    "main.js.map": "/mangiare/static/js/main.fab2aad0.chunk.js.map",
     "runtime~main.js": "/mangiare/static/js/runtime~main.0d33fb67.js",
     "runtime~main.js.map": "/mangiare/static/js/runtime~main.0d33fb67.js.map",
     "static/js/2.1e08312f.chunk.js": "/mangiare/static/js/2.1e08312f.chunk.js",
     "static/js/2.1e08312f.chunk.js.map": "/mangiare/static/js/2.1e08312f.chunk.js.map",
     "index.html": "/mangiare/index.html",
-    "precache-manifest.cb8c6194d308e13350c7958cbb410962.js": "/mangiare/precache-manifest.cb8c6194d308e13350c7958cbb410962.js",
+    "precache-manifest.6863d195d3ef24b3ad2357ae38b457ff.js": "/mangiare/precache-manifest.6863d195d3ef24b3ad2357ae38b457ff.js",
     "service-worker.js": "/mangiare/service-worker.js",
-    "static/css/main.da8b3461.chunk.css.map": "/mangiare/static/css/main.da8b3461.chunk.css.map",
+    "static/css/main.e4ada75c.chunk.css.map": "/mangiare/static/css/main.e4ada75c.chunk.css.map",
     "static/media/Bing.mp3": "/mangiare/static/media/Bing.a9a0de6f.mp3",
     "static/media/News.mp3": "/mangiare/static/media/News.ed0eea83.mp3"
   }
