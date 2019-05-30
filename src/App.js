@@ -1,12 +1,18 @@
 import React from 'react';
 import './App.css';
+import ReactWOW from 'react-wow'
 
 class  App extends React.Component {
 
   sendMessage = () => {
-    console.log('test')
-
     window.location.href = "https://wa.me/573005523770?text=Hola%20enviame%20el%20menu%20del%20dia%20por%20favor"
+  }
+
+  calculateDelay = () => {
+
+    let seconds = 1
+    return `${seconds}s`
+
   }
 
   render () {
@@ -16,35 +22,51 @@ class  App extends React.Component {
 
   <div className=" message-list">
     <div className="message -left">
-      <div className="nes-balloon from-left">
-            <p>mano llegó Mangiare!!</p>
-      </div>
+    <ReactWOW animation='fadeInLeft' delay={this.calculateDelay} scroll duration='0.5s'>
+    <div className="nes-balloon from-left">
+            <p>ole mano llegó Mangiare!!</p>
+    </div>
+    </ReactWOW>
     </div>
 
 
     <section className="message -right">
+    <ReactWOW animation='fadeInRight' delay='1.5s' scroll duration='0.5s'>
       <div className="nes-balloon from-right">
         <p>UY! que es Mangiare?</p>
       </div>
+      </ReactWOW>
     </section>
 
 
     <div className="message -left">
+    <ReactWOW animation='fadeInLeft' delay='2.5s' scroll duration='0.5s'>
+
       <div className="nes-balloon from-left">
             <p>La mejor Pasta artesanal de la ciudad</p>
       </div>
+      </ReactWOW>
+
     </div>
 
     <section className="message -right">
+    <ReactWOW animation='fadeInRight' delay='3.5s' scroll duration='0.5s'>
+
       <div className="nes-balloon from-right">
         <p>Spagettis, canelones, raviolis?</p>
       </div>
+      </ReactWOW>
+
     </section>
 
     <div className="message -left">
+    <ReactWOW animation='fadeInLeft' delay='4.5s' scroll duration='0.5s'>
+
       <div className="nes-balloon from-left">
             <p>Si y mucho más!</p>
       </div>
+      </ReactWOW>
+
     </div>
 
   </div>
