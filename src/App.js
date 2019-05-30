@@ -103,7 +103,9 @@ class  App extends React.Component {
     <ReactWOW animation='fadeInRight' delay='3.5s' scroll duration='0.5s'>
 
       <div onClick={this.hideBalloon4} className={hidebaloon4} >
-        <p>Spagettis, canelones, raviolis?</p>
+        <p className="nes-text is-success"> Spagettis</p>
+        <p className="nes-text is-error"> Canelones</p>
+        <p>Raviolis</p>
       </div>
       </ReactWOW>
 
